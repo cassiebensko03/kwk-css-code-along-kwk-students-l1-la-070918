@@ -1,1 +1,26 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: #FFEDE5;
+      font-size: 150%;
+    }
+  h1 {
+    color: #7F4025;
+    font-family: 'Just Another Hand', cursive;
+    }
+    
+  h2 {
+    color: red;
+    font-family: 'Just Another Hand', cursive;
+    }
+  
+  .info-selection {
+  font-size: 500%;
+  color: #7F4025;
+  font-family: 'Inconsolata', sans-serif;
+  border: 1px dotted red;
+
+  }
+  
+  #title-section {
+    color: purple;
+  }
